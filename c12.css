@@ -1,0 +1,26 @@
+/* Madison Klapinsky
+c12- Box Model
+5/2/18 */ 
+
+* {
+	margin: 0px;
+	padding: 0px; 
+}
+
+body {
+	border: 5px dotted black; 
+	margin: 10px;
+	padding: 25px 75px 25px 25px; 
+}
+
+main {
+	border: 3px solid black;
+	padding: 30px 15px 15px; 
+}
+
+h1, p {
+	border: 3px dashed black; 
+	padding:15px 30px 15px 15px; 
+	margin: 10px
+}
+
